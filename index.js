@@ -5,5 +5,5 @@ app.get('/',(req, res)=>{
 })
 
 app.listen(8080,()=>{
-  console.log('server runnig on port 8080')
+  console.log('server runnig on port 8080 !!')
 })
